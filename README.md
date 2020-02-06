@@ -1,2 +1,10 @@
 # c-plus-plus-practice
-revisiting the fundamentals of c++
+- examples taken from [Geeks-for-geeks](https://www.geeksforgeeks.org/c-plus-plus/)
+
+
+# What do the folders contain
+
+| File Name      | Topic     |
+| :------------- | :---------- |
+| [basics](/basics) | the fundamentals of C++|
+
