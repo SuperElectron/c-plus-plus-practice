@@ -12,7 +12,7 @@ __topics__
 - There are in total seven standard “first-class” container classes and three container adaptor classes and only seven header files that provide access to these containers or container adaptors.
 
 __definitions__
-    
+
     Sequence Containers                 implement data structures which can be accessed in a sequential manner.
     Container Adaptors                  provide a different interface for sequential containers.
     Associative Containers              implement sorted data structures that can be quickly searched (O(log n) complexity).
